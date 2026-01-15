@@ -22,8 +22,15 @@ day: 4 saturday january 3rd 2026
 day: 5 sunday january 4th 2026
 
     #todays tasks
-        add snake mode : not done
-            draw snake: done
-            make snake move: not done
+        fix bugs: done
+
+day 6 thursday january 15th 2026
+
+    took a break for college
+     #todays tasks
+        add command panel: done
+        call v1 done: done
+        
+
 
 
