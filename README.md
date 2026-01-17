@@ -14,6 +14,6 @@ right now theres only one command: spawn
 spawn command is used to spawn objects
 syntax for spawinign a circls:
 
-spawn circls x x-value y y-value xv x-plane-speed yv y-plane-velocity mass mass-value color color-value name object-name
+spawn circls x x-value y y-value vx x-plane-speed vy y-plane-velocity mass mass-value color color-value name object-name
 
 order doesnt matter
